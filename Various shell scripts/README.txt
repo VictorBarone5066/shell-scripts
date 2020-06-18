@@ -1,4 +1,4 @@
-Shell scripts written in csh (sorry!) for ease-of-use.  Intended to be used with VASP output files, although some can be edited for general purpose use.
+Shell scripts written in csh.  Intended to be used with VASP output files, although some can be edited for general purpose use.  The newest files are more for general usage
 
 'python script prep' is the most specific.  Used for walking down a directory tree and adding data necessary for calculating elastic and magnetic properties to a file to be read by python code.  
 INPUT:  nothing - but the directories must be formatted in the following way:
